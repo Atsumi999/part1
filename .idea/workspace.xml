@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46e0dffe-53c0-4752-9aca-3ba6501f6736" name="Default Changelist" comment="" />
+    <list default="true" id="46e0dffe-53c0-4752-9aca-3ba6501f6736" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locallibrary/locallibrary/locallibrary/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="1819">
               <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
             </state>
           </provider>
@@ -65,8 +68,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="x" value="266" />
+    <option name="y" value="48" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -92,22 +95,7 @@
             <path>
               <item name="part1" type="b2602c69:ProjectViewProjectNode" />
               <item name="part1" type="462c0819:PsiDirectoryNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="part1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="part1" type="462c0819:PsiDirectoryNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="part1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="part1" type="462c0819:PsiDirectoryNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,6 +104,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -144,7 +133,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <frame x="266" y="48" width="1400" height="1000" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
@@ -188,7 +177,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/locallibrary/locallibrary/locallibrary/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="1819">
           <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
         </state>
       </provider>
